@@ -6,5 +6,6 @@ This was done as a first year project by the team :
 github : pranav-lad
 ## 🧑 Atharva Khuspe
 ## 🧑 Shreyas Kharde
+github : shreyashkharde
 ## 🧑 Nipun Kulkarni
 ## 🧑 Shubham Kumare
