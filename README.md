@@ -1,4 +1,4 @@
-# Healthify 🤸‍♂️🦾
+# Healthifier 🤸‍♂️🦾
 It can suggest you diet and exercise based on your input data.
 
 This was done as a first year project by the team : 
